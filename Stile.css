@@ -1,3 +1,13 @@
 body{font-size: 20px;
-text-align: center;
-background-color: gray;}
+}
+
+.principal{text-align: center;
+    background-color: gray;}
+
+.destaque{color:red}
+
+.imagem{width: 100%;}
+
+.alinhar{text-align: center;}
+
+.imagem_beneficio{width: 100%;}
