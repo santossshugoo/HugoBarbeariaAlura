@@ -10,4 +10,9 @@ body{font-size: 20px;
 
 .alinhar{text-align: center;}
 
-.imagem_beneficio{width: 100%;}
+.imagem_beneficio{width: 50%;}
+
+.titulo-principal{padding-left: 20px;}
+
+.lista{display: inline-block;
+vertical-align: top;}
